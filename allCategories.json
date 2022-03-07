@@ -1,0 +1,29 @@
+[
+	{"id":1,
+	 "name":"فست‌فود",
+	 "img":"img/pitza.png",
+	 "icon":"fas fa-chevron-left"
+	},
+	{"id":2,
+	 "name":"ایرانی",
+	 "img":"img/aash.png",
+	 "icon":"fas fa-chevron-left"
+	},
+	{"id":3,
+	 "name":"کباب",
+	 "img":"img/kabab.png",
+	 "icon":"fas fa-chevron-left"
+	},
+	{"id":4,
+	 "name":"سالاد",
+	 "img":"img/salad.png"
+	},
+	{"id":5,
+	 "name":"دریایی",
+	 "img":"img/icon_daryayi.png"
+	},
+	{"id":6,
+	 "name":"بین‌الملل",
+	 "img":"img/sooshi.png"
+	}	
+]
